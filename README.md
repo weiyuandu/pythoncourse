@@ -5,20 +5,40 @@ Welcome to the official course website for the Python programming course offered
 
 ### Teaching Plan
 - Introduction to Python
+  - Welcome 
   - Brief history of Python
-  - Setting up the Python environment (Anaconda, Jupyter Notebooks)
+  - Setting up the Python Development Environment (Anaconda, Jupyter Notebooks)
   - Basic syntax, variables, data types, and operators
+  - Basic string operations
 - Control Structure
+  - Advanced string manipulation 
   - Conditional statements (if, elif, else)
   - Loops (for, while)
   - Exceptions handling (try, except, assert)
 - Data Structures
   - Lists, Tuples, Sets, Dictionaries
   - Operations on data structures (indexing, slicing, iterating)
-- Algorithm Essentials
 - Functions and Modules
+  - Syntax, Arguments, Return, Scoping rules
+  - The Lambda expression
+  - High order functions
+  - Decorators
+  - Importing and using modolues (PyPI, pip, and packages)
+  - Some useful packages (requests, arrow, etc.)
+  - Version control
+- Algorithm Essentials
+  - Advanced data structure (linked list, stack, queue, binary tree)
+  - Searching algorithms (linear search, binary search)
+  - Sorting algorithm (selection sort, bubble sort, insertion sort, merge sort, quick sort)
 - Object-Oriented Programming
+  - Object-oriented thinking
+  - Classes and objects
+  - Class inherience
 - Software Engineering Principles in Python
+  - Coding style
+  - Reading data from files and writing data to files
+  - Writing your own modules
+  - Writing your own packages
 - Introduction to Data Analytics
 - Read and Write Datasets
 - Exploratory Data Analysis
