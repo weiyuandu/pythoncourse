@@ -48,21 +48,31 @@ Welcome to the official course website for the Python programming course offered
   - Numpy and array-oriented programming
 - Read and Write Datasets
   - Data manipulation with Pandas
+    - Working with different data formats
+    - Data import/export using Pandas
+    - Overview of Pandas DataFrame and Series
+    - Basic data operations: filtering, sorting, and summarizing
 - Exploratory Data Analysis
   - Data cleaning (handling missing data, transforming data)
   - Data wrangling (hierarchical indexing, grouping, aggregation, joining, merging, melting, etc.)
   - Data Visualization (Matplotlib, Seaborn) 
 - Basic Machine Learning with Python
-  - Machine learning for business analytics
-  - Linear regression models with scikit-learn
-  - Regression analysis with SciPy and StatsModels
+  - Machine learning in business context
+  - Implementing linear regression models with scikit-learn
+  - Regression analysis and interpretation with SciPy and StatsModels
   - Feature engineering (feature selection, feature scaling and encoding)
 - Python Application Cases
-  - Storytelling with data 
+  - Storytelling with data
+    - Techniques for effective data presentation
+    - Case studies: using data to tell compelling business stories
+    - End-to-end analysis of a business dataset 
 - Python and Large-Language-Models
-  - Introduction to Large-Language-Models (understanding the role of LLM in business analytics) 
+  - Introduction to Large-Language-Models (understanding the role of LLM in business analytics)
+  - Overview of popular models like GPT-3, BERT, and their capabilities
   - Interfacing Python with models like GPT-3
-  - Case studies on leveraging LLMs for data analysis and predictions
+    - Using ChatGPT for data analysis 
+  - Real-world examples of LLMs in business analytics
+  - Future trends and potential of LLMs in data-driven decision-making
 ### Scheduled Dates
 
 ### Grading Standards
