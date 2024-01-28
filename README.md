@@ -14,6 +14,7 @@ Welcome to the official course website for the Python programming course offered
   - Advanced string manipulation 
   - Conditional statements (if, elif, else)
   - Loops (for, while)
+  - Loop control statements (break, continue, pass)
   - Exceptions handling (try, except, assert)
 - Data Structures
   - Lists, Tuples, Sets, Dictionaries
@@ -23,29 +24,45 @@ Welcome to the official course website for the Python programming course offered
   - The Lambda expression
   - High order functions
   - Decorators
+  - Recursive functions
   - Importing and using modolues (PyPI, pip, and packages)
   - Some useful packages (requests, arrow, etc.)
-  - Version control
+  - Version control (Git)
 - Algorithm Essentials
   - Advanced data structure (linked list, stack, queue, binary tree)
   - Searching algorithms (linear search, binary search)
   - Sorting algorithm (selection sort, bubble sort, insertion sort, merge sort, quick sort)
+  - Comparing the efficiency of different sorting methods
 - Object-Oriented Programming
   - Object-oriented thinking
   - Classes and objects
-  - Class inherience
+  - Class inherience (overriding, polymorphism)
 - Software Engineering Principles in Python
-  - Coding style
-  - Reading data from files and writing data to files
+  - Coding style and best practices (PEP 8 guideline, writing clean and readable code)
+  - Reading data from files and writing data to files (CSV, JSON, XML)
   - Writing your own modules
   - Writing your own packages
-- Introduction to Data Analytics
+  - Unite testing and debugging (PyTest)
+- Introduction to Business Analytics
+  - What is business analytics?
+  - Numpy and array-oriented programming
 - Read and Write Datasets
+  - Data manipulation with Pandas
 - Exploratory Data Analysis
-- Basic Statistical Analysis
+  - Data cleaning (handling missing data, transforming data)
+  - Data wrangling (hierarchical indexing, grouping, aggregation, joining, merging, melting, etc.)
+  - Data Visualization (Matplotlib, Seaborn) 
+- Basic Machine Learning with Python
+  - Machine learning for business analytics
+  - Linear regression models with scikit-learn
+  - Regression analysis with SciPy and StatsModels
+  - Feature engineering (feature selection, feature scaling and encoding)
 - Python Application Cases
+  - Storytelling with data 
 - Python and Large-Language-Models
-
+  - Introduction to Large-Language-Models (understanding the role of LLM in business analytics) 
+  - Interfacing Python with models like GPT-3
+  - Case studies on leveraging LLMs for data analysis and predictions
 ### Scheduled Dates
 
 ### Grading Standards
@@ -61,8 +78,9 @@ online resources available. A few that are particularly relevant to this course 
 1. [The Python Language Documentation](https://www.python.org/doc/)
 2. [Numpy Documentation](https://numpy.org/doc/stable/index.html)
 3. [Pandas Documentation](https://pandas.pydata.org/)
-4. [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html)
-5. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+4. [SciPy Documentation](https://scipy.org/)
+5. [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html)
+6. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
 ### Learning Outcomes
 Master basic Python knowledge and skills, be able to proficiently use some of Python's fundamental functions, and be capable of using Python to solve some problems in data analytics. Participation in this course will build students’ confidence in using Python, preparing them for more advanced study in Machine Learning (ML) and Business Analytics (BA), and advancement in their careers.
