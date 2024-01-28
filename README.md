@@ -2,3 +2,15 @@
 Welcome to the official course website for the Python programming course offered by the School of Management at the Technical University of Munich for the summer semester 2024.
 
 ## Syllabus
+
+### Teaching Plan
+
+### Scheduled Dates
+
+### Grading Standards
+
+### Reference Books
+
+### Learning Outcomes
+
+## Final Projects
