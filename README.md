@@ -56,3 +56,26 @@ Master basic Python knowledge and skills, be able to proficiently use some of Py
 ### Project Grading
 
 ## ChatGPT and Other Programming Resources
+Let's be crystal clear: You are professional programmers. Professional programmers use the
+internet (ChatGPT, Stackoverflow, Blogs, Github, etc) to find solutions to programming problems roughly
+every 5 minutes. I'm not asking you to ignore the perfectly valid and highly beneficial resources
+at your disposal when programming for this course; I want you to develop programming skills
+that include real-world research techniques. However, I am asking three things:
+
+1. **DO NOT** copy and paste code directly from Stackoverflow, or any other internet resource.
+This counts as cheating, see above section of the syllabus. Instead, use solutions found on the
+internet as reference implementations to study and help craft your own solution.
+2. **DO** attempt to solve all problems by yourself before looking up external resources - this
+exercise will engage your analytical mind, and force you to understand the problem better.
+Ultimately, the value you get from this course is up to you, but I'd like to see every student learn
+every topic to the best of their ability.
+3. **DO** completely understand any code you write. This means that if you are stuck and go to the
+internet for help, you do not just transcribe code, you study and understand an external solution
+to the extent that you can implement the same algorithm on your own. Trust me, this approach
+make a huge difference in improving you as a software engineer. Also, if you ever have a
+question on a grade for a project, I will ask you to explain your code to me. If you can't, I can't
+trust that you actually solved the problem.
+
+Again, it’s up to you to get all the value you can from this course. This material is extremely
+valuable to software engineers in the field, and will serve you well if you give it all you've got.
+
