@@ -30,14 +30,29 @@ Welcome to the official course website for the Python programming course offered
 
 ### Grading Standards
 
-### Reference Books
+### Textbook and Resources
+There are no required textbooks for this course, but the following recommended books will give
+you valuable references for Python programming:
 1. Guttag, J. V. (2016). Introduction to computation and programming using Python: With application to understanding data. MIT Press.
 2. McKinney, W. (2012). Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. O'Reilly Media, Inc.
 
+Additionally, like any programming language, Python has a wide variety of comprehensive
+online resources available. A few that are particularly relevant to this course are listed below:
+1. [The Python Language Documentation](https://www.python.org/doc/)
+2. [Numpy Documentation](https://numpy.org/doc/stable/index.html)
+3. [Pandas Documentation](https://pandas.pydata.org/)
+4. [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html)
+5. [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+
 ### Learning Outcomes
 Master basic Python knowledge and skills, be able to proficiently use some of Python's fundamental functions, and be capable of using Python to solve some problems in data analytics. Participation in this course will build students’ confidence in using Python, preparing them for more advanced study in Machine Learning (ML) and Business Analytics (BA), and advancement in their careers.
+
 ## Projects
 
 ### Mid-term Individual Project
 
 ### Final Group Project
+
+### Project Grading
+
+## ChatGPT and Other Programming Resources
