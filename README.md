@@ -73,7 +73,13 @@ Welcome to the official course website for the Python programming course offered
     - Using ChatGPT for data analysis 
   - Real-world examples of LLMs in business analytics
   - Future trends and potential of LLMs in data-driven decision-making
+
 ### Scheduled Dates
+| Date   | Content   | 
+|------------|------------|
+| Row 1 Cell | Row 1 Cell |
+| Row 2 Cell | Row 2 Cell |
+| Row 3 Cell | Row 3 Cell |
 
 ### Grading Standards
 
