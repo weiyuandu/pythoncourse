@@ -65,6 +65,7 @@ Welcome to the official course website for the Python programming course offered
   - Regression analysis and interpretation with SciPy and StatsModels
   - Feature engineering (feature selection, feature scaling and encoding)
 - **Course 12**: Python Application Cases
+  - Other regression models (additional)
   - Storytelling with data
     - Techniques for effective data presentation
     - Case studies: using data to tell compelling business stories
