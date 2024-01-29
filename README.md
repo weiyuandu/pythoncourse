@@ -1,4 +1,4 @@
-# Introduction to Python Programming for Business Analytics
+# Introduction to Python Programming for Data Analytics
 Welcome to the official course website for the Python programming course offered by the School of Management at the Technical University of Munich for the summer semester 2024.
 
 ## Syllabus
@@ -46,8 +46,8 @@ Welcome to the official course website for the Python programming course offered
     
 **Week 8**: Mid-term individual project
 
-- **Course 8**: Introduction to Business Analytics
-  - What is business analytics?
+- **Course 8**: Introduction to Data Analytics
+  - What is data analytics?
   - Numpy and array-oriented programming
 - **Course 9**: Read and Write Datasets
   - Data manipulation with Pandas
@@ -69,7 +69,7 @@ Welcome to the official course website for the Python programming course offered
     - Techniques for effective data presentation
     - Case studies: using data to tell compelling business stories
     - End-to-end analysis of a business dataset 
-- **Course 13**: Python and Large-Language-Models
+- **Course 13**: Python and Large-Language-Models (*)
   - Introduction to Large-Language-Models (understanding the role of LLM in business analytics)
   - Overview of popular models like GPT-3, BERT, and their capabilities
   - Interfacing Python with models like GPT-3
