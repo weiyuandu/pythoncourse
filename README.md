@@ -43,7 +43,9 @@ Welcome to the official course website for the Python programming course offered
   - Writing your own modules
   - Writing your own packages
   - Unite testing and debugging (PyTest)
+    
 **Week 8**: Mid-term individual project
+
 - **Course 8**: Introduction to Business Analytics
   - What is business analytics?
   - Numpy and array-oriented programming
