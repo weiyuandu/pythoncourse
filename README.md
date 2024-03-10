@@ -110,8 +110,48 @@ Master basic Python knowledge and skills, be able to proficiently use some of Py
 ### Mid-term Individual Project
 
 ### Final Group Project
+- **Objectives**
+  - Understand the structure and challenges of working with real-world healthcare datasets.
+  - Apply data preprocessing techniques to clean and prepare data for analysis.
+  - Perform exploratory data analysis (EDA) to identify trends, patterns, and anomalies.
+  - Select and apply appropriate machine learning techniques to develop predictive models.
+  - Evaluate the performance of machine learning models using suitable metrics.
+  - Interpret the results of the analysis and model to provide insights into the healthcare domain.
+
+- **Dataset Options**
+  - **MIMIC-IV**: A comprehensive database comprising de-identified health-related data associated with over forty thousand patients who stayed in critical care units of the Beth Israel Deaconess Medical Center in Boston, Massachusetts.
+  - **AmsterdamUMCdb**: An openly accessible database containing data from intensive care unit (ICU) patients, offering a European perspective with diverse patient data for comprehensive analysis.
+ 
+- **Project Phases**
+  - **Introduction to the Dataset**: Begin with an introduction to the chosen dataset, including accessing, understanding its structure, and the type of information it contains.
+  - **Problem Statement Definition**: Each group will define a specific problem statement or research question they aim to address with the dataset. Example questions could involve predicting patient outcomes (e.g., mortality, length of stay, readmission rates), diagnosing diseases based on lab results, or identifying risk factors for specific conditions.
+  - **Data Exploration and Preprocessing**:
+    - Perform exploratory data analysis to understand the data's characteristics.
+    - Clean the data by handling missing values, outliers, and incorrect entries.
+    - Feature engineering to prepare the dataset for modeling.
+  - **Model Development**
+    - Choose appropriate machine learning models (e.g., logistic regression, decision trees, random forests, or simple neural networks).
+    - Train and tune models using the preprocessed data.
+    - Implement cross-validation to avoid overfitting and ensure the model's generalizability.
+  - **Evaluation and Interpretation**
+    - Evaluate the model's performance using metrics such as accuracy, precision, recall, F1 score, and AUC-ROC curve.
+    - Interpret the results in the context of the healthcare domain, discussing the model's implications and potential use cases in healthcare analytics.
+  - **Presentation and Documentation**
+    - Prepare a comprehensive report documenting the entire process, findings, and insights.
+    - Present the project outcome to the class, highlighting the problem statement, methodology, results, and conclusions.
+   
+- **Submission**
+  - A detailed report containing all the phases of the project, from data preprocessing to model evaluation and interpretation.
+  - A presentation summarizing the project's key points, findings, and potential impact on healthcare decisions or policy.
+  - Python code for data analysis and model development, well-documented and organized on a platform like GitHub for review and future reference.
 
 ### Project Grading
+- **Evaluation Criteria**:
+  - Clarity and relevance of the problem statement.
+  - Depth and thoroughness of the data exploration and preprocessing.
+  - Appropriateness and implementation of the machine learning methods.
+  - Accuracy and robustness of the model evaluation.
+  - Quality of the final report and presentation, including the ability to communicate findings effectively to a non-technical audience.
 
 ## ChatGPT and Other Programming Resources
 Let's be crystal clear: You are professional programmers. Professional programmers use the
