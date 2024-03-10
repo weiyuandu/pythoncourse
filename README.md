@@ -146,6 +146,11 @@ Master basic Python knowledge and skills, be able to proficiently use some of Py
   - Python code for data analysis and model development, well-documented and organized on a platform like GitHub for review and future reference.
 
 ### Project Grading
+| Part   | Weight   | 
+|------------|------------|
+| Presentation | 20% |
+| Report | 80% |
+
 - **Evaluation Criteria**:
   - Clarity and relevance of the problem statement.
   - Depth and thoroughness of the data exploration and preprocessing.
