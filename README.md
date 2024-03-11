@@ -107,9 +107,8 @@ Master basic Python knowledge and skills, be able to proficiently use some of Py
 
 ## Projects
 
-### Mid-term Individual Project
-
 ### Final Group Project
+- **Task: Mechanical Ventilation in ICUs**
 - **Objectives**
   - Understand the structure and challenges of working with real-world healthcare datasets.
   - Apply data preprocessing techniques to clean and prepare data for analysis.
@@ -130,13 +129,13 @@ Master basic Python knowledge and skills, be able to proficiently use some of Py
     - Clean the data by handling missing values, outliers, and incorrect entries.
     - Feature engineering to prepare the dataset for modeling.
   - **Model Development**
-    - Choose appropriate machine learning models (e.g., logistic regression, decision trees, random forests, or simple neural networks).
+    - Deploy machine learning models (e.g., logistic regression, decision trees, random forests, or simple neural networks).
     - Train and tune models using the preprocessed data.
     - Implement cross-validation to avoid overfitting and ensure the model's generalizability.
   - **Evaluation and Interpretation**
     - Evaluate the model's performance using metrics such as accuracy, precision, recall, F1 score, and AUC-ROC curve.
     - Interpret the results in the context of the healthcare domain, discussing the model's implications and potential use cases in healthcare analytics.
-  - **Presentation and Documentation**
+  - **Presentation and Documentation (group)**
     - Prepare a comprehensive report documenting the entire process, findings, and insights.
     - Present the project outcome to the class, highlighting the problem statement, methodology, results, and conclusions.
    
