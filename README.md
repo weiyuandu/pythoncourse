@@ -4,6 +4,9 @@ Welcome to the official course website for the Python programming course offered
 ## Syllabus
 
 ### Teaching Plan
+
+**Week 1**: Part 1
+
 - **Course 1**: Introduction to Python
   - Welcome 
   - Brief history of Python
@@ -44,7 +47,7 @@ Welcome to the official course website for the Python programming course offered
   - Writing your own packages
   - Unite testing and debugging (PyTest)
     
-**Week 8**: Mid-term individual project
+**Week 8**: Part 2
 
 - **Course 8**: Introduction to Data Analytics
   - What is data analytics?
