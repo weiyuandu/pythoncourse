@@ -45,7 +45,7 @@ Below is a possible grading system and some introduction of Artemis
 | Presentation(Homework + tutor exercise) | 10%       |
 | Final Project                           | 60%       |
 | **Total**                               | 100%      |
-| Bonus for selected homework exercise)| up to 10% |
+| Bonus for selected homework exercise    | up to 10% |
 
 **Bonus System**
 
