@@ -1,4 +1,4 @@
-# Programming for Management Studies
+# MGTHN0144S: Programming for Management Studies
 Welcome to the official course website for the Python programming course offered by the School of Management at the Technical University of Munich for the summer semester 2024.
 
 ## Syllabus
@@ -84,9 +84,17 @@ Welcome to the official course website for the Python programming course offered
 ### Scheduled Dates
 | Date   | Content   | 
 |------------|------------|
-| Row 1 Cell | Row 1 Cell |
-| Row 2 Cell | Row 2 Cell |
-| Row 3 Cell | Row 3 Cell |
+| 26/04/2024 | Introduction to Python |
+| 03/05/2024 | Control Structure |
+| 10/05/2024 | Data Structures |
+| 17/05/2024 | Functions and Modules |
+| 24/05/2024 | Algorithm Essentials |
+| 31/05/2024 | Object-Oriented Programming &  Software Engineering Principles |
+| 07/06/2024 | Introduction to Data Analytics |
+| 14/06/2024 | Read and Write Datasets |
+| 21/06/2024 | Exploratory Data Analysis |
+| 28/06/2024 | Basic Machine Learning with Python |
+| 05/07/2024 | Python Application Cases & LLM|
 
 ### Grading Standards
 
@@ -111,7 +119,7 @@ Master basic Python knowledge and skills, be able to proficiently use some of Py
 ## Projects
 
 ### Final Group Project
-- **Task: Mechanical Ventilation in ICUs**
+- **Task: Predicting Successful Extubation in ICUs**
 - **Objectives**
   - Understand the structure and challenges of working with real-world healthcare datasets.
   - Apply data preprocessing techniques to clean and prepare data for analysis.
