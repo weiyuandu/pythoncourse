@@ -1,4 +1,4 @@
-# MGTHN0144S: Programming for Management Studies
+# MGTHN0144S: Introduction to Python Programming for Data Analytics
 Welcome to the official course website for the Python programming course offered by the School of Management at the Technical University of Munich for the summer semester 2024.
 
 ## Syllabus
@@ -7,22 +7,22 @@ Welcome to the official course website for the Python programming course offered
 
 **Week 1**: Part 1
 
-- **Course 1**: Introduction to Python
+- **Lecutre 1**: Introduction to Python
   - Welcome 
   - Brief history of Python
   - Setting up the Python Development Environment (Anaconda, Jupyter Notebooks)
   - Basic syntax, variables, data types, and operators
   - Basic string operations
-- **Course 2**: Control Structure
+- **Lecture 2**: Control Structure
   - Advanced string manipulation 
   - Conditional statements (if, elif, else)
   - Loops (for, while)
   - Loop control statements (break, continue, pass)
   - Exceptions handling (try, except, assert)
-- **Course 3**: Data Structures
+- **Lecture 3**: Data Structures
   - Lists, Tuples, Sets, Dictionaries
   - Operations on data structures (indexing, slicing, iterating)
-- **Course 4**: Functions and Modules
+- **Lecture 4**: Functions and Modules
   - Syntax, Arguments, Return, Scoping rules
   - The Lambda expression
   - High order functions
@@ -31,16 +31,16 @@ Welcome to the official course website for the Python programming course offered
   - Importing and using modolues (PyPI, pip, and packages)
   - Some useful packages (requests, arrow, etc.)
   - Version control (Git)
-- **Course 5**: Algorithm Essentials
+- **Lecture 5**: Algorithm Essentials
   - Advanced data structure (linked list, stack, queue, binary tree)
   - Searching algorithms (linear search, binary search)
   - Sorting algorithm (selection sort, bubble sort, insertion sort, merge sort, quick sort)
   - Comparing the efficiency of different sorting methods
-- **Course 6**: Object-Oriented Programming
+- **Lecture 6**: Object-Oriented Programming
   - Object-oriented thinking
   - Classes and objects
   - Class inherience (overriding, polymorphism)
-- **Course 7**: Software Engineering Principles in Python
+- **Lecture 7**: Software Engineering Principles in Python
   - Coding style and best practices (PEP 8 guideline, writing clean and readable code)
   - Reading data from files and writing data to files (CSV, JSON, XML)
   - Writing your own modules
@@ -49,31 +49,31 @@ Welcome to the official course website for the Python programming course offered
     
 **Week 8**: Part 2
 
-- **Course 8**: Introduction to Data Analytics
+- **Lecture 8**: Introduction to Data Analytics
   - What is data analytics?
   - Numpy and array-oriented programming
-- **Course 9**: Read and Write Datasets
+- **Lecture 9**: Read and Write Datasets
   - Data manipulation with Pandas
     - Working with different data formats
     - Data import/export using Pandas
     - Overview of Pandas DataFrame and Series
     - Basic data operations: filtering, sorting, and summarizing
-- **Course 10**: Exploratory Data Analysis
+- **Lecture 10**: Exploratory Data Analysis
   - Data cleaning (handling missing data, transforming data)
   - Data wrangling (hierarchical indexing, grouping, aggregation, joining, merging, melting, etc.)
   - Data Visualization (Matplotlib, Seaborn) 
-- **Course 11**: Basic Machine Learning with Python
+- **Lecture 11**: Basic Machine Learning with Python
   - Machine learning in business context
   - Implementing linear regression models with scikit-learn
   - Regression analysis and interpretation with SciPy and StatsModels
   - Feature engineering (feature selection, feature scaling and encoding)
-- **Course 12**: Python Application Cases
+- **Lecture 12**: Python Application Cases
   - Other regression models (additional)
   - Storytelling with data
     - Techniques for effective data presentation
     - Case studies: using data to tell compelling business stories
     - End-to-end analysis of a business dataset 
-- **Course 13**: Python and Large-Language-Models (*)
+- **Lecture 13**: Python and Large-Language-Models (*)
   - Introduction to Large-Language-Models (understanding the role of LLM in business analytics)
   - Overview of popular models like GPT-3, BERT, and their capabilities
   - Interfacing Python with models like GPT-3
@@ -96,7 +96,63 @@ Welcome to the official course website for the Python programming course offered
 | 28/06/2024 | Basic Machine Learning with Python |
 | 05/07/2024 | Python Application Cases & LLM|
 
-### Grading Standards
+### Grading And Exercises
+
+**Artemis**
+
+[https://artemis.cit.tum.de/](https://artemis.cit.tum.de/)
+
+• Download PDF slides before the lecture starts
+
+• Participate in exercises: programming, modeling, quiz, text
+
+• Review your individual exercise results including feedback
+
+***
+
+****Possible Grading System****
+
+| **Activity**                            | Weight    |
+|-----------------------------------------|-----------|
+| Homework + Tutorial Exercises           | 40%       |
+| Project presentation                    | 20%       |
+| Final Project                           | 40%       |
+| **Total**                               | 100%      |
+| Bonus for selected homework exercise    | up to 10% |
+
+**Bonus System**
+
+Participate in lecture and homework exercises to receive points
+
+Exercises are marked with a bonus category
+
+other (non-bonus) exercises are marked as optional
+
+**Mapping of bonus to additional grade score**
+![img.png](img.png)
+
+****Exercise types****
+
+1. Lecture exercises(e.g.L01E01)
+   1. solve exercise during the lectures
+2. Group exercises(e.g.T01E01)
+    1. solve exercise in a group during the tutor group meeting
+   2. presented in the tutor groups
+   3. perpare for homework exercises and for the final exam
+3. Homework exercises(e.g.H01E01)
+    1. published after each lecture : to be solved within one week at home
+    2. Assessed automatically(real time feedback)
+    3. presented and discussed in the subsequent tutor group
+
+
+****Assessment and complaints****
+• Artemis uses double blind assessments to improve the fairness
+
+• The tutor does not know the identity of the student
+
+• The student does not know the identity of the tutor
+
+• If you think the assessment is wrong, you can complain on Artemis
 
 ### Textbook and Resources
 There are no required textbooks for this course, but the following recommended books will give
