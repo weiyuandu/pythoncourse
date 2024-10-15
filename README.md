@@ -84,17 +84,17 @@ Welcome to the official course website for the Python programming course offered
 ### Scheduled Dates
 | Date   | Content   | 
 |------------|------------|
-| 29/04/2024 | Introduction to Python |
-| 06/05/2024 | Control Structure |
-| 13/05/2024 | Data Structures |
-| 27/05/2024 | Functions and Modules |
-| 03/06/2024 | Algorithm Essentials |
-| 10/06/2024 | Object-Oriented Programming &  Software Engineering Principles |
-| 17/06/2024 | Introduction to Data Analytics |
-| 24/06/2024 | Read and Write Datasets |
-| 01/07/2024 | Exploratory Data Analysis |
-| 08/07/2024 | Basic Machine Learning with Python |
-| 15/07/2024 | Python Application Cases & LLM|
+| 16/10/2024 | Introduction to Python |
+| 30/10/2024 | Control Structure |
+| 06/11/2024 | Data Structures |
+| 13/11/2024 | Functions and Modules |
+| 20/11/2024 | Algorithm Essentials |
+| 27/11/2024 | Object-Oriented Programming &  Software Engineering Principles |
+| 04/12/2024 | Introduction to Data Analytics |
+| 11/12/2024 | Read and Write Datasets |
+| 18/12/2024 | Exploratory Data Analysis |
+| 08/01/2025 | Basic Machine Learning with Python |
+| 15/01/2025 | Python Application Cases & LLM|
 
 ### Grading And Exercises
 
