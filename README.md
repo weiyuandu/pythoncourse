@@ -6,43 +6,43 @@ Welcome to the official course website for the Python programming course offered
 ### Teaching Plan
 
 **Week 1**: Part 1
-
-- **Lecutre 1**: Introduction to Python
-  - Welcome 
+- **Lecutre 1**: Introduction to Programming
+   -Introduction to Programming
+  - Brief history of programming
+  - Programming in Management
+- **Lecutre 2**: Introduction to Python
   - Brief history of Python
   - Setting up the Python Development Environment (Anaconda, Jupyter Notebooks)
   - Basic syntax, variables, data types, and operators
   - Basic string operations
-- **Lecture 2**: Control Structure
+- **Lecture 3**: Control Structure
   - Advanced string manipulation 
   - Conditional statements (if, elif, else)
   - Loops (for, while)
   - Loop control statements (break, continue, pass)
   - Exceptions handling (try, except, assert)
-- **Lecture 3**: Data Structures
+- **Lecture 4**: Data Structures
   - Lists, Tuples, Sets, Dictionaries
   - Operations on data structures (indexing, slicing, iterating)
-- **Lecture 4**: Functions and Modules
+- **Lecture 5**: Functions and Modules
   - Syntax, Arguments, Return, Scoping rules
   - The Lambda expression
   - High order functions
   - Decorators
   - Recursive functions
-  - Importing and using modolues (PyPI, pip, and packages)
-  - Some useful packages (requests, arrow, etc.)
-  - Version control (Git)
-- **Lecture 5**: Algorithm Essentials
+  - *Importing and using modolues (PyPI, pip, and packages)
+  - *Some useful packages (requests, arrow, etc.)
+  - *Version control (Git)
+- **Lecture 6**: Algorithm Essentials
   - Advanced data structure (linked list, stack, queue, binary tree)
   - Searching algorithms (linear search, binary search)
   - Sorting algorithm (selection sort, bubble sort, insertion sort, merge sort, quick sort)
   - Comparing the efficiency of different sorting methods
-- **Lecture 6**: Object-Oriented Programming
+- **Lecture 7**: Toolkit and package design
   - Object-oriented thinking
   - Classes and objects
   - Class inherience (overriding, polymorphism)
-- **Lecture 7**: Software Engineering Principles in Python
   - Coding style and best practices (PEP 8 guideline, writing clean and readable code)
-  - Reading data from files and writing data to files (CSV, JSON, XML)
   - Writing your own modules
   - Writing your own packages
   - Unite testing and debugging (PyTest)
@@ -52,28 +52,31 @@ Welcome to the official course website for the Python programming course offered
 - **Lecture 8**: Introduction to Data Analytics
   - What is data analytics?
   - Numpy and array-oriented programming
-- **Lecture 9**: Read and Write Datasets
+- **Lecture 9**: Manipulate Datasets I 
   - Data manipulation with Pandas
     - Working with different data formats
     - Data import/export using Pandas
     - Overview of Pandas DataFrame and Series
-    - Basic data operations: filtering, sorting, and summarizing
-- **Lecture 10**: Exploratory Data Analysis
-  - Data cleaning (handling missing data, transforming data)
-  - Data wrangling (hierarchical indexing, grouping, aggregation, joining, merging, melting, etc.)
-  - Data Visualization (Matplotlib, Seaborn) 
-- **Lecture 11**: Basic Machine Learning with Python
-  - Machine learning in business context
-  - Implementing linear regression models with scikit-learn
-  - Regression analysis and interpretation with SciPy and StatsModels
-  - Feature engineering (feature selection, feature scaling and encoding)
-- **Lecture 12**: Python Application Cases
-  - Other regression models (additional)
+- **Lecture 10**: Manipulate Datasets II
+  - Basic data operations: filtering, sorting, and summarizing
+    - Data cleaning (handling missing data, transforming data)
+    - Data wrangling (hierarchical indexing, grouping, aggregation, joining, merging, melting, etc.)
+- **Lecture 11**: Data Visualization and Story telling
+  - Pandas Visualization and sumary
+  - Advanced thrid party library( matplotlib..)
+  - Graph design
   - Storytelling with data
     - Techniques for effective data presentation
     - Case studies: using data to tell compelling business stories
-    - End-to-end analysis of a business dataset 
-- **Lecture 13**: Python and Large-Language-Models (*)
+    - End-to-end analysis of a business dataset
+- **Lecture 12**: Descriptive Machine Learning with Python(???) 非预测性的机器学习 工作内容
+  - Textural Modeling
+  - Implementing linear regression models with scikit-learn
+  - Regression analysis and interpretation with SciPy and StatsModels
+  - Feature engineering (feature selection, feature scaling and encoding)
+- **Lecture 13**: Textural Mining 工作内容
+
+- **Lecture 14**: Python and Large-Language-Models (*)
   - Introduction to Large-Language-Models (understanding the role of LLM in business analytics)
   - Overview of popular models like GPT-3, BERT, and their capabilities
   - Interfacing Python with models like GPT-3
